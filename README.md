@@ -9,7 +9,7 @@ View all books in the Available Books page with options to add to My Books, edit
 <img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/162d9722-453e-4deb-afd0-2f3957c165df" />
 Maintain a personal My Books list and remove books from that list when needed.
 <img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/c4c37456-5a36-4a9b-9b0d-896ccf0bcb8c" />
-<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/363c8551-f785-4d15-b65b
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/363c8551-f785-4d15-b65b" />
 
 🧰 Tech Stack
 
